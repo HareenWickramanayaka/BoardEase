@@ -1,1 +1,0 @@
-Updated: Removed decorative full stops from page headings, hero headings, section headings and paragraph subtitles throughout the frontend. Login accounts and functionality remain unchanged. Replace only client/src/App.jsx in your existing project, then refresh the browser.
